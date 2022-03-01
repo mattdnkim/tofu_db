@@ -3,7 +3,7 @@
 ## Project overview
 
 TofuDB is a customizable database builder with an interactive UI based on Ruby on Rails and React. We made this for users who want to create their own simple database driven website, allow them to manage database structure and control how the data is presented. No coding needed!
-
+It was my last team project in Lighthouse Lab. I worked on the frontend part using React
 ## Getting started
 
 Install dependencies on the Client Server:
